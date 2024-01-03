@@ -5,7 +5,7 @@
 
 ### Prerequisites
 Make sure you have the php installed using this command:
-#### Rust
+#### Php
 ```bash script
 php --version
 ```
